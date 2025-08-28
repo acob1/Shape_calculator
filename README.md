@@ -1,0 +1,1 @@
+This C# console application allows users to calculate properties of various geometric shapes based on their sides and sizes. The program can compute areas, perimeters, and other measurements for different shapes, making it a useful tool for learning and practicing geometry and C# programming.
