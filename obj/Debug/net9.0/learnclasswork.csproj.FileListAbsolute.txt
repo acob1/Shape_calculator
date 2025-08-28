@@ -1,0 +1,14 @@
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\bin\Debug\net9.0\learnclasswork.exe
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\bin\Debug\net9.0\learnclasswork.deps.json
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\bin\Debug\net9.0\learnclasswork.runtimeconfig.json
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\bin\Debug\net9.0\learnclasswork.dll
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\bin\Debug\net9.0\learnclasswork.pdb
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\obj\Debug\net9.0\learnclasswork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\obj\Debug\net9.0\learnclasswork.AssemblyInfoInputs.cache
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\obj\Debug\net9.0\learnclasswork.AssemblyInfo.cs
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\obj\Debug\net9.0\learnclasswork.csproj.CoreCompileInputs.cache
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\obj\Debug\net9.0\learnclasswork.dll
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\obj\Debug\net9.0\refint\learnclasswork.dll
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\obj\Debug\net9.0\learnclasswork.pdb
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\obj\Debug\net9.0\learnclasswork.genruntimeconfig.cache
+C:\Users\JLEM\Desktop\c-sharp-works\learnclasswork\obj\Debug\net9.0\ref\learnclasswork.dll
